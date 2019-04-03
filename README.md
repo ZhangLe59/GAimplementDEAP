@@ -1,4 +1,4 @@
-# Project Title
+# Mechine Learning - Evolution - Genetic Algorithm Implement
 This project is implement for Genetic Algorithm with DEAP lib
 
 # Getting Started
